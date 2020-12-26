@@ -5,6 +5,8 @@
 ---------------------------------------------------
 loads bruted insecure/weak IoT devices, servers, etc to a given payload, can be used for botnets, and other malicious means.
 
+can be described as "payload injection" 
+
 >> viridium, made in purely python
 
 >> supports most dist.
