@@ -1,4 +1,4 @@
-# viridium | python > ssh loading script | used for bruted IoT
+# viridium | python > ssh loading script
 # ![](https://img.shields.io/badge/version-1.0-lightgrey.svg)
 
 # details:
